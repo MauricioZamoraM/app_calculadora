@@ -5,7 +5,7 @@ function Boton(props){
     const esOperador = valor=>{
         /*Si el valor no es un numero.....retornamos true */
         /*Si no se cumplen las condiciones retorna false */
-        return isNaN(valor) && (valor !=='.') && (valor !== '=');
+        return isNaN(valor) && (valor !=='.');
     }
     return(
         /* Si el valor retornado por esta funcion es true se va a remplazar por la segunda clase asignada operador */
