@@ -11,8 +11,8 @@ html {
 .App{
   width: 100%;
   height: 100vh;
-  background-color: #2a2a72;
-background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  background-color: #537895;
+  background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
   display: flex;
   flex-direction: column;
   align-items: center;
